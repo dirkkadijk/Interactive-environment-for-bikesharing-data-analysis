@@ -31,6 +31,6 @@ The original files are much larger and messier, and you don't need to download t
 
 
 ### Credits
-Credits are owed to Udacity who created this US bikesharing data project.
-- See here url for original github assigment: https://github.com/stephanderton/Explore-US-Bikeshare-Data
-- See here url for this github project assigment: https://github.com/udacity/pdsnd_github.
+Credits are owed to Udacity who created both this US bikesharing data project as the github project assignments:
+- see here url for original github assigment: https://github.com/stephanderton/Explore-US-Bikeshare-Data
+- see here url for this github project assigment: https://github.com/udacity/pdsnd_github.
