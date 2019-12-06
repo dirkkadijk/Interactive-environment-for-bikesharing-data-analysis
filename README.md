@@ -11,7 +11,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 
-What value does this project offer?
+**What value does this project offer?**
 
 In summary: Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 The bikeshare.py file is set up as a script that takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions on the previous page will change! There are four questions that will change the answers:
@@ -23,14 +23,14 @@ The bikeshare.py file is set up as a script that takes in raw input to create an
 
 ### Files used
 In this project the following three city dataset files are used:
-•	chicago.csv
-•	new_york_city.csv
-•	washington.csv
+*	chicago.csv
+*	new_york_city.csv
+*	washington.csv
 
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago, New York City, Washington). Some data wrangling has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward.
 
 
 ### Credits
 Credits are owed to Udacity who created both this US bikesharing data project as the github project assignments:
-- see here url for original github assigment: https://github.com/stephanderton/Explore-US-Bikeshare-Data
-- see here url for this github project assigment: https://github.com/udacity/pdsnd_github.
+- see [here]( https://github.com/stephanderton/Explore-US-Bikeshare-Data ) url for original github assignments
+- see [here]( https://github.com/udacity/pdsnd_github ) url for this github project assigment
