@@ -109,11 +109,7 @@ def time_stats(df):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
-    # TO DO: display the most common month
-    # popular_month = df['month'].mode()[0]
-    # popular_month = popular_month - 1
-    # print('Most popular month for travelling is: ', popular_month)
-    # months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
+
     print('tweede print', df.head())
     print('The most common month is: ', months[df['month'].mode()[0]].title())
 
